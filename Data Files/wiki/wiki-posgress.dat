@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>wiki-posgress</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>6c5a0e25-57ce-49ed-930e-72ad00b3a771</dataFileGUID>
+   <dataSourceUrl>jdbc:postgresql://localhost:5432/mydb?currentSchema=public</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName>postgres</driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>MQ==</password>
+   <properties>
+      <entry>
+         <key>readAsString</key>
+         <value>true</value>
+      </entry>
+   </properties>
+   <query>select*from wikicity</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>hungpro</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

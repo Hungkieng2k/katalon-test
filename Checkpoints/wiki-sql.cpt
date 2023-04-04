@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>wiki-sql</name>
+   <tag></tag>
+   <db-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>jdbc:sqlserver://HUNGPRO\SQLEXPRESS:1433;databaseName=Katalon</source-url>
+      <source-type>DBData</source-type>
+      <is-using-global-db-setting>false</is-using-global-db-setting>
+      <is-secure-user-account>true</is-secure-user-account>
+      <user>sa</user>
+      <password>MQ==</password>
+      <query><![CDATA[select * from wiki
+]]></query>
+      <driverClassName></driverClassName>
+   </db-source-info>
+   <taken-date>2023-03-30T11:03:32.37</taken-date>
+   <column-names>
+      <column-name>city</column-name>
+      <column-name>result</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Tokyo",
+      "checked": true
+    },
+    {
+      "value": "Tokyo",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Miami",
+      "checked": true
+    },
+    {
+      "value": "Miami",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "New York",
+      "checked": true
+    },
+    {
+      "value": "New York",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

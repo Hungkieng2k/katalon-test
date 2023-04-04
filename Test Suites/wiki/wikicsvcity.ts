@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>wikicsvcity</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>5d87063d-8fdd-4d4c-99f6-6a65d6fece6c</testSuiteGuid>
+   <testCaseLink>
+      <guid>c956095f-1146-46be-81f5-3d6038204b0d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'Tokyo'</defaultValue>
+         <description></description>
+         <id>a0c7be27-9d44-4f72-a1b4-a97b51739607</id>
+         <masked>false</masked>
+         <name>city</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/wiki media</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4efa08d7-890b-4d50-861d-9f68ff9b8bdc</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/wiki/wiki-csv</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>4efa08d7-890b-4d50-861d-9f68ff9b8bdc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>city,result</value>
+         <variableId>a0c7be27-9d44-4f72-a1b4-a97b51739607</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4efa08d7-890b-4d50-861d-9f68ff9b8bdc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>city,result</value>
+         <variableId>339f3bb2-5796-43a3-94f3-d02b744b43ba</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

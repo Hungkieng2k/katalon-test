@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>wiki-sql</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>b4752359-8ba0-455d-afa1-c14dd50fe40c</testSuiteGuid>
+   <testCaseLink>
+      <guid>16e5d269-2239-468b-9948-26a50985a9ba</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/wiki media</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>614556ba-fc04-4479-b251-2e63b252f7a2</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/wiki/wiki-sql</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>614556ba-fc04-4479-b251-2e63b252f7a2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>city</value>
+         <variableId>a0c7be27-9d44-4f72-a1b4-a97b51739607</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>614556ba-fc04-4479-b251-2e63b252f7a2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>result</value>
+         <variableId>339f3bb2-5796-43a3-94f3-d02b744b43ba</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

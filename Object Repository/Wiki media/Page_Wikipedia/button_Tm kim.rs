@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tm kim</name>
+   <tag></tag>
+   <elementGuidId>b2fe9888-d1a6-4221-b56f-c6b3f27013c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='searchform']/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.cdx-button.cdx-button--action-default.cdx-button--type-normal.cdx-button--framed.cdx-search-input__end-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e692cc2a-ea75-4e1b-a55e-080cc258047b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cdx-button cdx-button--action-default cdx-button--type-normal cdx-button--framed cdx-search-input__end-button</value>
+      <webElementGuid>e3b9f5c1-9727-4786-993c-463ab11b9c51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tìm kiếm</value>
+      <webElementGuid>615ec977-2d93-4b62-9152-aee41421807d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchform&quot;)/div[@class=&quot;cdx-search-input cdx-search-input--has-end-button cdx-typeahead-search__input&quot;]/button[@class=&quot;cdx-button cdx-button--action-default cdx-button--type-normal cdx-button--framed cdx-search-input__end-button&quot;]</value>
+      <webElementGuid>027c9e75-a959-4a73-a3ce-55e89b302904</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='searchform']/div/button</value>
+      <webElementGuid>702ef45f-9d6d-4a02-ba75-6af956e7ac19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='katalon studio'])[1]/following::button[1]</value>
+      <webElementGuid>c4422798-5e46-4120-9071-92f682dc1713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tạo tài khoản'])[1]/preceding::button[1]</value>
+      <webElementGuid>f6f94572-edcd-4076-b912-4aae2f8fb8cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[1]/preceding::button[1]</value>
+      <webElementGuid>b2d7ab76-e6d6-464a-b588-fde3399b518e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/button</value>
+      <webElementGuid>b374e22d-8fa3-40c7-b409-65e85facd1d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Tìm kiếm' or . = 'Tìm kiếm')]</value>
+      <webElementGuid>8551a451-f9b2-42e1-aeb0-9624063e7f96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
