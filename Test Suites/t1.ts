@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>login-visuatesting</name>
+   <name>t1</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,9 +10,9 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>f115f2f7-7e47-4caa-b23a-e893070dd84f</testSuiteGuid>
+   <testSuiteGuid>f942e0a9-b969-4ee1-9454-ba90eea81928</testSuiteGuid>
    <testCaseLink>
-      <guid>b20cc0c5-fc4a-4df4-a1bf-8add6d732562</guid>
+      <guid>d61bb352-0d98-47fe-94d6-2a489c46785a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Apointment/login</testCaseId>
