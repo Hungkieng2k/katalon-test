@@ -25,7 +25,7 @@
          </iterationEntity>
          <testDataId>Data Files/wiki/wiki-sql</testDataId>
       </testDataLink>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId>614556ba-fc04-4479-b251-2e63b252f7a2</testDataLinkId>
          <type>DATA_COLUMN</type>

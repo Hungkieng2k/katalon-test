@@ -32,7 +32,7 @@
          </iterationEntity>
          <testDataId>Data Files/wiki/wiki-csv</testDataId>
       </testDataLink>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId>4efa08d7-890b-4d50-861d-9f68ff9b8bdc</testDataLinkId>
          <type>DATA_COLUMN</type>

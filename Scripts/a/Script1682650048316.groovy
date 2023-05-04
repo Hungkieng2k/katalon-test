@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 Windows.startApplicationWithTitle('C:\\Windows\\System32\\notepad.exe', 'a')
 
-Windows.setText(findWindowsObject('Object Repository/Window'), 'Nguyen Thanh Hung')
+Windows.setText(findWindowsObject('Object Repository/first/Edit'), 'Nguyen Thanh Hung')
 
-Windows.click(findWindowsObject('Object Repository/MenuItem'))
+Windows.clearText(findWindowsObject('Object Repository/first/MenuItem'))
 
 Windows.closeApplication()
 

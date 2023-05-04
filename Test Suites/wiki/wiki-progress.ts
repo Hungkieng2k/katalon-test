@@ -25,7 +25,7 @@
          </iterationEntity>
          <testDataId>Data Files/wiki/wiki-posgress</testDataId>
       </testDataLink>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId>4107db8d-92ba-4387-add4-1d5e74783d23</testDataLinkId>
          <type>DATA_COLUMN</type>

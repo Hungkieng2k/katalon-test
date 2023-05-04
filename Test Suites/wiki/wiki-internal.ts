@@ -15,6 +15,13 @@
       <guid>77e9ed8e-fd9b-454c-968a-9887f96c025e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'Tokyo'</defaultValue>
+         <description></description>
+         <id>a0c7be27-9d44-4f72-a1b4-a97b51739607</id>
+         <masked>false</masked>
+         <name>city</name>
+      </iterationNameVariable>
       <testCaseId>Test Cases/wiki media</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -25,7 +32,7 @@
          </iterationEntity>
          <testDataId>Data Files/wikicity- internal</testDataId>
       </testDataLink>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId>e7c2da00-55d2-4a63-9d3e-beac4c260cfa</testDataLinkId>
          <type>DATA_COLUMN</type>
